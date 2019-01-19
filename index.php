@@ -22,7 +22,7 @@
             <div class="container-fluid">
               <div class="row">
                 <div class="col-md-8">
-                  <h1 class="text-center txt-blanco text-uppercase">
+                  <h1 class="text-center txt-blanco text-uppercase mt-3">
                     Espéralo
                   </h1>
                 </div>
@@ -33,7 +33,7 @@
                         <img src="img/bindsoporte-logo.png" alt="Bind Soporte" class="img-logobind mx-auto d-block" />
                       </div>
                     </div>
-                    <div class="row mt-2">
+                    <div class="row mt-5">
                       <div class="col-md-12">
                         <nav class="nav justify-content-center">
                           <a class="nav-link nav-social nav-social-bind" href="https://www.facebook.com/binddrone/" target="_blank">
@@ -54,7 +54,7 @@
                         </nav>
                       </div>
                     </div>
-                    <div class="row mt-3">
+                    <div class="row mt-5">
                       <div class="col-sm-8 offset-sm-2">
                           <span class="text-uppercase font-weight-bold">Información</span>
                           <hr class="divider-style m-0" />
